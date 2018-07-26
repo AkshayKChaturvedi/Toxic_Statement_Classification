@@ -3,9 +3,9 @@ diversification of opinions on whole range of subjects (from politics to educati
 to people abusing anyone who disagrees with them, at times even threatening others with physical harm.
 
 But not all the statements are threatening; some are insulting and toxic but not threatening. Aim of this project is to build a 
-multi-headed model (a statement can fall into multiple categories simultaneously) that is capable of detecting different types 
-of toxicity in statements like insulting, obscene, threatening etc. This will hopefully help in making online discussions more 
-productive and respectful.
+multi-headed classification model (a statement can fall into multiple categories simultaneously) that is capable of detecting 
+different types of toxicity in statements like insulting, obscene, threatening etc. This will hopefully help in making online 
+discussions more productive and respectful.
 
 Below is a description of project files:
 
