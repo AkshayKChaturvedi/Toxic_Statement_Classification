@@ -1,6 +1,11 @@
-With the advent of social media lots of people have found their voice, on one hand this has led to democratization and diversification of opinions on whole range of subjects (from politics to education to food), on the other hand it has also led to people abusing anyone who disagrees with them, at times even threatening others with physical harm.
+With the advent of social media lots of people have found their voice, on one hand this has led to democratization and 
+diversification of opinions on whole range of subjects (from politics to education to food), on the other hand it has also led 
+to people abusing anyone who disagrees with them, at times even threatening others with physical harm.
 
-But not all the statements are threatening; some are insulting and toxic but not threatening. Aim of this project is to build a multi-headed model (a statement can fall into multiple categories simultaneously) that is capable of detecting different types of toxicity in statements like insulting, obscene, threatening etc. This will hopefully help in making online discussions more productive and respectful.
+But not all the statements are threatening; some are insulting and toxic but not threatening. Aim of this project is to build a 
+multi-headed model (a statement can fall into multiple categories simultaneously) that is capable of detecting different types 
+of toxicity in statements like insulting, obscene, threatening etc. This will hopefully help in making online discussions more 
+productive and respectful.
 
 Below is a description of project files:
 
